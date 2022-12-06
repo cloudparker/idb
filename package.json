@@ -1,0 +1,15 @@
+{
+  "name": "@cloudparker/idb",
+  "version": "1.0.0",
+  "description": "Simple light weight library for indexed db operations",
+  "main": "lib/idb.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "indexed-db",
+    "idb"
+  ],
+  "author": "cloudparker.com",
+  "license": "ISC"
+}
